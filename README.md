@@ -4,6 +4,8 @@
 
 #### In addition to **Python**, I am also looking forward to learning other technologies such as SQL, AWS, JavaScript, HTML, and CSS. I believe that having a diverse set of skills can help me to become a more versatile developer.
 
+<img align="right" height="180" width="240" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cwfwf66pv404ea1faliygttrcar31f93jl5sqsqk&rid=giphy.gif&ct=g">
+
 On progress:
 - 🐍 Python
   - 📈 Pandas
@@ -15,8 +17,6 @@ On progress:
 
 ![Pedrobenvenutti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrobenvenutti&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBenvenutti&theme=tokyonight)](https://github.com/PedroBenvenutti/github-readme-stats)
-<img align="right" height="205" width="240" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cwfwf66pv404ea1faliygttrcar31f93jl5sqsqk&rid=giphy.gif&ct=g">
-
 
 <div> 
   <a href="https://www.youtube.com/channel/UCgDf-UqRCerLfVJo1WFDK4g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
