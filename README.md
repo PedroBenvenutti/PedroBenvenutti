@@ -1,16 +1,26 @@
-### Hi there 👋
+## Welcome to my GitHub!
 
-<!--
-**PedroBenvenutti/PedroBenvenutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hello there! My name is **Pedro Benvenutti** and I am a student of **Analysis and Software Development**. I have a passion for programming and I am currently focusing my studies on Python, particularly its libraries such as Pandas, Selenium, Django. 
 
-Here are some ideas to get you started:
+#### In addition to **Python**, I am also looking forward to learning other technologies such as SQL, AWS, JavaScript, HTML, and CSS. I believe that having a diverse set of skills can help me to become a more versatile developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On progress:
+- 🐍 Python
+  - 📈 Pandas
+  - 🌐 Django
+  - 🌐 Flask
+  - 🤖 Selenium
+- 💾 SQL
+- ☁️ AWS
+
+![Pedrobenvenutti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrobenvenutti&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBenvenutti&theme=tokyonight)](https://github.com/PedroBenvenutti/github-readme-stats)
+<img align="right" height="205" width="240" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cwfwf66pv404ea1faliygttrcar31f93jl5sqsqk&rid=giphy.gif&ct=g">
+
+
+<div> 
+  <a href="https://www.youtube.com/channel/UCgDf-UqRCerLfVJo1WFDK4g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pedro_pmb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/quekop" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrombenvenutti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-benvenutti-161440244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
