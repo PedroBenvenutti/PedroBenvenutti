@@ -1,4 +1,5 @@
-https://github.com/PedroBenvenutti/PedroBenvenutti/blob/main/README.pt-br.md
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PedroBenvenutti/multilanguage-readme-pattern/blob/master/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PedroBenvenutti/multilanguage-readme-pattern/blob/master/README.pt-br.md)
 
 ## Welcome to my GitHub!
 
