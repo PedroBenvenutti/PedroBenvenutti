@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PedroBenvenutti/PedroBenvenutti/edit/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PedroBenvenutti/PedroBenvenutti/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PedroBenvenutti/PedroBenvenutti/blob/main/README.pt-br.md)
 
 ## Bem-vindo ao meu GitHub!
