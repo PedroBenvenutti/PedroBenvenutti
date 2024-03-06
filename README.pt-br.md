@@ -19,7 +19,6 @@ Em progresso:
 - 💾 SQL
 - ☁️ AWS
 
-Projeto FakePinterest: https://fakepinterest-projeto.onrender.com
 
 ![Pedrobenvenutti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrobenvenutti&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBenvenutti&theme=tokyonight)](https://github.com/PedroBenvenutti/github-readme-stats)
