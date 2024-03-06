@@ -3,7 +3,7 @@
 
 ## Welcome to my GitHub!
 
-#### Hello there! My name is **Pedro Benvenutti** and I am a student of **Analysis and Software Development**. I have a passion for programming and I am currently focusing my studies on Python, particularly its libraries such as Pandas, Selenium, Django and Flask. 
+#### Hello there! My name is **Pedro Benvenutti** and I am a student of **Analysis and Software Development**. I have a passion for programming and I am currently focusing my studies on DevOps and Python.
 
 #### In addition to **Python**, I am also looking forward to learning other technologies such as SQL, AWS, JavaScript, HTML, and CSS. I believe that having a diverse set of skills can help me to become a more versatile developer.
 
@@ -15,6 +15,9 @@ On progress:
   - 🌐 Django
   - 🌐 Flask
   - 🤖 Selenium
+-DevOps
+- 🖳 Linux 
+- 🤖 Shell Script
 - 💾 SQL
 - ☁️ AWS
   
